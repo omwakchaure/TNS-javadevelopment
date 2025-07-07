@@ -23,7 +23,7 @@ public class Encapsulation {
         obj.setAge(age);
 
         
-        System.out.println("serialno" + obj.getSerialNum());
+        System.out.println(obj);
         input.close();
     }
 }
